@@ -1,0 +1,1 @@
+{"uuid":"a18a6b7a-301a-4ee2-98ea-935a98501c02","name":"Valida Usuario Cadastrado CT0012","start":1605022219110,"stop":1605022252077,"children":["edef75e7-69e8-41f0-a94e-fce3ef2a4bb4"],"afters":[{"name":"tearDownWeb","status":"passed","stage":"finished","description":"","start":1605022251962,"stop":1605022252049}]}

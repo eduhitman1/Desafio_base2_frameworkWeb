@@ -1,0 +1,1 @@
+{"uuid":"9520228f-0fd7-4726-aae3-85369c9f262e","name":"Adicionar Produto Carrinho CT0001","start":1605027595726,"stop":1605027598815,"children":["dda755cd-6e01-44a5-a7de-0a69a23c7f08"],"afters":[{"name":"tearDownWeb","status":"passed","stage":"finished","description":"","start":1605027598763,"stop":1605027598765}]}
